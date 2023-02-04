@@ -32,4 +32,4 @@ Esse projeto foi extraído de um vídeo do canal Online Tutorials que tem muitos
 Link do vídeo: <a href="https://www.youtube.com/watch?v=iVt1ElToqHo">Online Tutorials</a>
 
 
-![](https://github.com/Wanderson-Alves-do-Nascimento/9-dots-menu/assets/9-Dots-Menu.gif)
+![](https://github.com/Wanderson-Alves-do-Nascimento/9-dots-menu/blob/main/assets/9-Dots-Menu.gif)
